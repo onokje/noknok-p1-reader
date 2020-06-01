@@ -1,0 +1,16 @@
+{
+  "name": "noknok-p1-reader",
+  "version": "1.0.0",
+  "description": "NodeJS p1 reader to mqtt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mqtt": "^4.1.0",
+    "p1-reader": "^2.0.1"
+  }
+}
