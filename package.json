@@ -2,6 +2,7 @@
   "name": "noknok-p1-reader",
   "version": "1.0.0",
   "description": "NodeJS p1 reader to mqtt",
+  "repository": "git@github.com:onokje/noknok-p1-reader.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
